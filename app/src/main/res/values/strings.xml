@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Service Desk</string>
+    <string name="busca_fila">fila solucionadora</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="txt_numero">Número:</string>
+    <string name="txt_abertura">Abertura:</string>
+    <string name="txt_fechamento">Fechamento:</string>
+    <string name="txt_descricao">Descrição:</string>
+    <string name="txt_status">Status:</string>
+</resources>
